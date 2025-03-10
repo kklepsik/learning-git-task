@@ -6,3 +6,6 @@ zakupy = {
      }
 
 print(zakupy)
+
+
+print("Specjalne pozdrowienia z zakupów")
