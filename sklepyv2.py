@@ -1,4 +1,4 @@
 zakupy = {
-     "piekarnia": {'chleb', 'bulka', 'paczek'},
-     "warzywniak": {'marchew', 'seler', 'rukola'}
+     "piekarnia": {'chleb', 'bulka', 'paczek', 'ciasto'},
+     "warzywniak": {'marchew', 'seler', 'rukola', 'ziemniaki'}
      }
